@@ -7,3 +7,4 @@
 # Lineamientos de estilo
 # Notas de refactor
 # Más detalles
+# Consideraciones de rendimiento
