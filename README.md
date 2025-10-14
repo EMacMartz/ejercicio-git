@@ -5,3 +5,5 @@
 # TODO: documentar utils
 
 # Lineamientos de estilo
+# Notas de refactor
+# Más detalles
